@@ -1,3 +1,3 @@
-- This is S0LV3R
+- This is S0LV3R.
 - I’m interested in 3D printing robust mechanisms and machines. 
 - I’m currently learning how to create complex robots and drones using 3D printing to prototype.
